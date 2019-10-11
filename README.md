@@ -28,6 +28,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 #### Scripted
 * **Interface ("Multimodal Analysis/Synthesis System for Human Interaction to Virtual and Augmented environments"):** Acted speech in Slovenian, English, Spanish and French. One male and one female actors per language except for two males and one female in English. About 4 hours per speaker. Currently (10/10/2019) only the Spanish recordings are available but the rest are to be published too.  [[Link]](http://universal.elra.info/product_info.php?cPath=37_39&products_id=62) 
+* **The Sincere Apology Corpus (SinA-C):** English speech recorded from 15 male and 17 female, 20 to 60 year old people, 27 of them being native American and 5 from other nationalities but fluent in English. 24 of the people were actors while 12 were artists. The speakers were instructed to speak in four prosodic styles: i)monotonic, ii) pitch prominence, iii) fast speaking rate, iv) slow speaking rate.The dataset is annotated in terms of the sincerity perceived by listeners. [[Link]](https://zenodo.org/record/3241253#.XaA6CEYzZPY)
 
 ### Medical
 * **VanDam Validation HomeBank Corpus:** About 7.5 hours of data selected from single-day recordings from the home-environment of 15 families with children that either develop or already have hearing problems. The children were 7-33 months old and the data was recording through a LENA system worn by the child. [[Link]](https://homebank.talkbank.org/access/Public/VanDam-Validation.html)
