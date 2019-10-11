@@ -1,7 +1,7 @@
 # Dataset collection
 A list of publicly available datasets (or available upon request) grouped not just by data type but also according to information related to the domain a trained model would be applicable.
 
-Datasets that are related to multiple groups are grouped under a "Generic" label for each data type separately. Those are accompanied by tags with the names of the multiple groups they are related to.
+%Datasets that are related to multiple groups are grouped under a "Generic" label for each data type separately. Those are accompanied by tags with the names of the multiple groups they are related to.%
 
 ## Speech
 
@@ -54,7 +54,7 @@ http://dcapswoz.ict.usc.edu/)
 
 ### Generic
 
-* **CHiME-5**:Audio data along with the transcriptions from 20 dinner parties (minimum 2 hours each) with two hosts and two guests each. The party members were all close friends and were instructed to act naturally. The transcriptions include annotations such as noise (when non-language noise is made), inaudible, laughter or reducted (removed for privacy reasons). [[Link]](http://spandh.dcs.shef.ac.uk/chime_challenge/CHiME5/data.html)
+* **CHiME-5**: Audio data along with the transcriptions from 20 dinner parties (minimum 2 hours each) with two hosts and two guests each. The party members were all close friends and were instructed to act naturally. The transcriptions include annotations such as noise (when non-language noise is made), inaudible, laughter or reducted (removed for privacy reasons). [[Link]](http://spandh.dcs.shef.ac.uk/chime_challenge/CHiME5/data.html)
 
 
 
