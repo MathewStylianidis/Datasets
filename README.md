@@ -35,7 +35,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 ### Events in speech
 * **SSPNet Vocalization Corpus**: Audio from 63 females and 57 males, unacquainted with each other, trying to solve the Winter Survival Task over phone. [[Link]](http://www.dcs.gla.ac.uk/vincia/?p=378)
 * **SSPNet Conflict Corpus**: 1430 audioclips, 30 seconds each from 45 political debates televised in Switzerland. Data dedicated to detecting conflicts in speech, which are common in debates. [[Link]](http://www.dcs.gla.ac.uk/vincia/?p=270)
-* **IBM Debate Speech Analysis Corpus:** Dataset made up from 3 separate datasets with good quality sound debates. The dataset is originally purposed 
+* **IBM Debate Speech Analysis Corpus:** Dataset made up from 3 separate datasets with good quality sound debates. The dataset is originally purposed for Automatic Speech Recognition. [[Link]](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Project)
 
 
 ## Multimodal
