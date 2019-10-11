@@ -1,4 +1,4 @@
-# Dataset collection
+# Datasets
 A list of publicly available datasets (or available upon request) grouped not just by data type but also according to information related to the domain a trained model would be applicable.
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
