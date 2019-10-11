@@ -46,6 +46,8 @@ A list of publicly available datasets (or available upon request) grouped not ju
 * **VoxCeleb**: Large scale dataset consisting of 2000 hours of audiovisual data from interviews uploaded to YouTube with 7000+ speakers of which 1251 are celebrities. [[Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 ### Emotional speech
+#### Scripted
+* **Multimodal EmotionLines Dataset (MELD):** Dialogue data from the Friends TV series labelled with emotions such as Anger, Disgust, Sadness, etc. or a sentiment label (positive, negative or neutral).[[Link]](https://github.com/SenticNet/MELD)
 #### Mixed scripted and non scripted
 * **IEMOCAP**: Data from 10 actors, male and female having affective dyadic interactions in both improvised and scripted sessions. Comprises of 12 hours of audiovisual data with text along with the scripted data.  [[Link]](https://sail.usc.edu/iemocap/iemocap_release.htm)
 
