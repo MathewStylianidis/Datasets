@@ -3,8 +3,6 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 ## Speech
 
-
-
 ### Reading:
 * **LibriSpeech**: 1000 hours of read books (audiobooks) in English. [[Link]](http://www.openslr.org/12)
 * **VCC Challenge 2016 dataset**: A cleaner version of the DAPS dataset. The data contains 20 speakers (10 male and 10 female), reading five excerpts each, about 13 minutes per speaker. The excerpts are read in 4 different recording settings (Raw, Clean Raw, Produced and Device). [[Link]](https://datashare.is.ed.ac.uk/handle/10283/2211)
@@ -37,7 +35,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 ### Events in speech
 * **SSPNet Vocalization Corpus**: Audio from 63 females and 57 males, unacquainted with each other, trying to solve the Winter Survival Task over phone. [[Link]](http://www.dcs.gla.ac.uk/vincia/?p=378)
 * **SSPNet Conflict Corpus**: 1430 audioclips, 30 seconds each from 45 political debates televised in Switzerland. Data dedicated to detecting conflicts in speech, which are common in debates. [[Link]](http://www.dcs.gla.ac.uk/vincia/?p=270)
-
+* **IBM Debate Speech Analysis Corpus:** Dataset made up from 3 separate datasets with good quality sound debates. The dataset is originally purposed 
 
 
 ## Multimodal
