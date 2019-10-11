@@ -42,7 +42,10 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 ## Multimodal
 
-### Affective computing
+### Interviews
+* **VoxCeleb**: Large scale dataset consisting of 2000 hours of audiovisual data from interviews uploaded to YouTube with 7000+ speakers of which 1251 are celebrities. [[Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
+
+### Emotional speech
 #### Mixed scripted and non scripted
 * **IEMOCAP**: Data from 10 actors, male and female having affective dyadic interactions in both improvised and scripted sessions. Comprises of 12 hours of audiovisual data with text along with the scripted data.  [[Link]](https://sail.usc.edu/iemocap/iemocap_release.htm)
 
