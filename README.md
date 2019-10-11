@@ -23,7 +23,7 @@ A list of datasets (mostly publicly available) not just by data type but also ac
 ### Emotional Speech
 
 #### Non-scripted
-* FAU Aibo Emotion Corpus: 51 young (10-13 y/o) children interacting in German with a pet robot. 11 Emotion categories. 
+* FAU Aibo Emotion Corpus: 9 hours of 51 young (10-13 y/o) children interacting in German with a pet robot. 11 Emotion categories. 
  [[Link]](https://www5.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus/) 
 
 #### Scripted
@@ -39,16 +39,16 @@ A list of datasets (mostly publicly available) not just by data type but also ac
 
 
 
-Multimodal
+## Multimodal
 
-Affective computing
-Mixed scripted and non scripted
-  •	IEMOCAP: Data from 10 actors, male and female having affective dyadic interactions in both improvised and scripted sessions. Comprises of 12 hours of audiovisual data with text along with the scripted data. https://sail.usc.edu/iemocap/iemocap_release.htm
+### Affective computing
+#### Mixed scripted and non scripted
+* IEMOCAP: Data from 10 actors, male and female having affective dyadic interactions in both improvised and scripted sessions. Comprises of 12 hours of audiovisual data with text along with the scripted data.  [[Link]](https://sail.usc.edu/iemocap/iemocap_release.htm)
 
-Medical
-  •	Dem@Care: Audio-visual and physiological sensor data collected from lab and home experiments from Greek dementia patients. The dataset includes samples recorded during sleep and motion. http://www.demcare.eu/results/datasets
-  •	DAIC-WOZ: About 50 hours of transcribed audio-visual data recorded from clinical interviews designed to support the diagnosis of anxiety, depression and PTSD. Part of the data was interviews conducted by a human controlled virtual interviewer. 
-http://dcapswoz.ict.usc.edu/
+### Medical
+* Dem@Care: Audio-visual and physiological sensor data collected from lab and home experiments from Greek dementia patients. The dataset includes samples recorded during sleep and motion.  [[Link]](http://www.demcare.eu/results/datasets)
+* DAIC-WOZ: About 50 hours of transcribed audio-visual data recorded from clinical interviews designed to support the diagnosis of anxiety, depression and PTSD. Part of the data was interviews conducted by a human controlled virtual interviewer.  [[Link]](
+http://dcapswoz.ict.usc.edu/)
 
 
 
