@@ -5,9 +5,9 @@ A list of datasets (mostly publicly available) not just by data type but also ac
 ## Speech
 
 ### Reading:
-* LibriSpeech: 1000 hours of read books (audiobooks) in English. http://www.openslr.org/12
-* VCC Challenge 2016 dataset: A cleaner version of the DAPS dataset. The data contains 20 speakers (10 male and 10 female), reading five excerpts each, about 13 minutes per speaker. The excerpts are read in 4 different recording settings (Raw, Clean Raw, Produced and Device). https://datashare.is.ed.ac.uk/handle/10283/2211
-* ZeroSpeech2019: The training data was recorded from 1 male and 1 female for 2 hours per talker and read text from 100 speakers with 10 minutes per speaker. There is also data contains also parallel utterances from a target voice and other voices. Lastly, the test set contains 15 speakers with about 2 minutes of speech per speaker. https://zerospeech.com/2019/index.html
+* LibriSpeech: 1000 hours of read books (audiobooks) in English. [[Link]](http://www.openslr.org/12)
+* VCC Challenge 2016 dataset: A cleaner version of the DAPS dataset. The data contains 20 speakers (10 male and 10 female), reading five excerpts each, about 13 minutes per speaker. The excerpts are read in 4 different recording settings (Raw, Clean Raw, Produced and Device). [[Link]](https://datashare.is.ed.ac.uk/handle/10283/2211)
+* ZeroSpeech2019: The training data was recorded from 1 male and 1 female for 2 hours per talker and read text from 100 speakers with 10 minutes per speaker. There is also data contains also parallel utterances from a target voice and other voices. Lastly, the test set contains 15 speakers with about 2 minutes of speech per speaker. [[Link]](https://zerospeech.com/2019/index.html)
 
 
 Pre-recorded speech replayed
