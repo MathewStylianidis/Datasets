@@ -1,5 +1,5 @@
 # Dataset collection
-A list of publicly available datasets (or available upon request) not just by data type but also according to information related to the domain a trained model would be applicable.
+A list of publicly available datasets (or available upon request) grouped not just by data type but also according to information related to the domain a trained model would be applicable.
 
 
 ## Speech
