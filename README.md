@@ -41,7 +41,7 @@ The datasets are going to also be assigned tags related to their content on top 
 * **SSPNet Conflict Corpus**: 1430 audioclips, 30 seconds each from 45 political debates televised in Switzerland. Data dedicated to detecting conflicts in speech, which are common in debates. [[Link]](http://www.dcs.gla.ac.uk/vincia/?p=270)
 * **IBM Debate Speech Analysis Corpus:** Dataset made up from 3 separate datasets with good quality sound debates. The dataset is originally purposed for Automatic Speech Recognition. [[Link]](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Project)
 
-
+  
 ## Computer Vision
 
 ### Person Detection
@@ -61,7 +61,7 @@ The subsequent description of the image contents may help when you choose
 the test and training sets. The numbers reported here are included in the filenames 
 e.g. bikes_012.png.
 
-
+  
 ## Multimodal
 
 ### Interviews
