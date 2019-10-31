@@ -47,7 +47,8 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 <br/><br/>  
 <br/><br/>
   
-  , Object detection, 
+
+
 ## Computer Vision
 
 ### Images of people
