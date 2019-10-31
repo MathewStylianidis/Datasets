@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Object detection, Person detection, Posture recognition, Segmentation
+Tags: Activity recognition, Object detection, Person detection, Posture recognition, Segmentation, Face recognition
 
 ## Speech
 
@@ -59,6 +59,11 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 * **Inria Person dataset**: This dataset contains images of upright people in images and video as well as negative samples with no people inside. People with less than a specified height are not marked in the dataset (assuming they are not upright). The annotations are bounding boxes with the people but might contain mistakes especially when it comes to bounding boxes being a little bit inside or outside of the people. The dataset contains data from other sources such as the GRAZ01 dataset. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://pascal.inrialpes.fr/data/human/)  
 [Posture recognition, Person detection, Object detection]
 
+* **People in Photo Albums (PIPA)**: The dataset consists over 60000 instances of ~2000 individuals collected from public Flickr photo albums. Only half of the images contain a frontal face and the dataset contains a lot of different poses, clothing styles, camera viewpoints, image resolutions and illumination settings. The annotations are bounding boxes around the heads of the people in the picture. If a crowd is present in a picture no more than 10 heads are marked. [[Link]](https://people.eecs.berkeley.edu/~nzhang/piper.html)  
+[Face recognition, Person detection, Object detection]
+
+
+
 
 ### Images of people/vehicles
 
@@ -68,6 +73,8 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 * **GRAZ 02**: The dataset contains 365 images with bikes, 311 images with persons, 420 images with cars 
 and 380 images not containing one of these objects. For 300 images of each category pixel segmentation masks are provided. There is also an improved version of the database with improved pixel segmentation masks. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://lear.inrialpes.fr/people/marszalek/data/ig02/)  
 [Person detection, Segmentation]
+
+
 
 
 
