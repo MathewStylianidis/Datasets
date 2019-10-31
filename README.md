@@ -53,20 +53,20 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 ### Images of people
 
 #### Person detection
-* **Stanford 40 Action Dataset**: The dataset contains images of humans performing 40 actions. Labels include bounding boxing for each image for 9532 images with 180-300 images per action class.   [[Link]](http://vision.stanford.edu/Datasets/40actions.html)
+* **Stanford 40 Action Dataset**: The dataset contains images of humans performing 40 actions. Labels include bounding boxing for each image for 9532 images with 180-300 images per action class.   [[Link]](http://vision.stanford.edu/Datasets/40actions.html)  
 [Activity recognition, Person detection, Object detection]
 
-* **Inria Person dataset**: This dataset contains images of upright people in images and video as well as negative samples with no people inside. People with less than a specified height are not marked in the dataset (assuming they are not upright). The annotations are bounding boxes with the people but might contain mistakes especially when it comes to bounding boxes being a little bit inside or outside of the people. The dataset contains data from other sources such as the GRAZ01 dataset. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://pascal.inrialpes.fr/data/human/)
+* **Inria Person dataset**: This dataset contains images of upright people in images and video as well as negative samples with no people inside. People with less than a specified height are not marked in the dataset (assuming they are not upright). The annotations are bounding boxes with the people but might contain mistakes especially when it comes to bounding boxes being a little bit inside or outside of the people. The dataset contains data from other sources such as the GRAZ01 dataset. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://pascal.inrialpes.fr/data/human/)  
 [Posture recognition, Person detection, Object detection]
 
 
 ### Images of people/vehicles
 
-* **GRAZ 01**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. (https://lear.inrialpes.fr/people/marszalek/data/ig02/).  [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)  
+* **GRAZ 01**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. (https://lear.inrialpes.fr/people/marszalek/data/ig02/).  [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)
 [Person detection, Object detection]
 
 * **GRAZ 02**: The dataset contains 365 images with bikes, 311 images with persons, 420 images with cars 
-and 380 images not containing one of these objects. For 300 images of each category pixel segmentation masks are provided. There is also an improved version of the database with improved pixel segmentation masks. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://lear.inrialpes.fr/people/marszalek/data/ig02/)
+and 380 images not containing one of these objects. For 300 images of each category pixel segmentation masks are provided. There is also an improved version of the database with improved pixel segmentation masks. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://lear.inrialpes.fr/people/marszalek/data/ig02/)  
 [Person detection, Segmentation]
 
 
