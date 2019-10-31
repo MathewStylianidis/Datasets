@@ -62,7 +62,7 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 
 ### Images of people/vehicles
 
-* **GRAZ 01**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. (https://lear.inrialpes.fr/people/marszalek/data/ig02/).  [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)
+* **GRAZ 01**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. (https://lear.inrialpes.fr/people/marszalek/data/ig02/).[[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)  
 [Person detection, Object detection]
 
 * **GRAZ 02**: The dataset contains 365 images with bikes, 311 images with persons, 420 images with cars 
