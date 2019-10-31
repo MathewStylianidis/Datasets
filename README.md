@@ -63,6 +63,11 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 * **People in Photo Albums (PIPA)**: The dataset consists over 60000 instances of ~2000 individuals collected from public Flickr photo albums. Only half of the images contain a frontal face and the dataset contains a lot of different poses, clothing styles, camera viewpoints, image resolutions and illumination settings. The annotations are bounding boxes around the heads of the people in the picture. If a crowd is present in a picture no more than 10 heads are marked. [[Link]](https://people.eecs.berkeley.edu/~nzhang/piper.html)  
 [Face recognition, Person detection, Object detection]
 
+* **Caltech Pedestrian Dataset**: Approximately 10 hours of 640x480 30Hz video taken from a vehicle driving through regular traffic in an urban environment. About 250,000 frames (in 137 approximately minute long segments) with a total of 350,000 bounding boxes and 2300 unique pedestrians were annotated. [[Link]](
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
+[Person detection, Object detection]
+
+
 
 
 
