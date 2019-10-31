@@ -64,15 +64,15 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 [Face recognition, Person detection, Object detection]
 
 * **Caltech Pedestrian Dataset**: Approximately 10 hours of 640x480 30Hz video taken from a vehicle driving through regular traffic in an urban environment. About 250,000 frames (in 137 approximately minute long segments) with a total of 350,000 bounding boxes and 2300 unique pedestrians were annotated. [[Link]](
-http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)  
 [Person detection, Object detection]
 
-* **Daimler Pedestrian Detection Dataset**: The training set contains 15.560 pedestrian samples and 6744 additional full images not containing pedestrians for extracting negative samples. The test set contains an independent sequence with more than 21.790 images with 56.492 pedestrian labels, captured from a vehicle during a 27 min drive through urban traffic, at VGA resolution (640x480, uncompressed). Bounding boxes are provided. [[Link]](http://www.gavrila.net/Research/Pedestrian_Detection/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html)
+* **Daimler Pedestrian Detection Dataset**: The training set contains 15.560 pedestrian samples and 6744 additional full images not containing pedestrians for extracting negative samples. The test set contains an independent sequence with more than 21.790 images with 56.492 pedestrian labels, captured from a vehicle during a 27 min drive through urban traffic, at VGA resolution (640x480, uncompressed). Bounding boxes are provided. [[Link]](http://www.gavrila.net/Research/Pedestrian_Detection/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html)  
 [Person detection, Object detection]
 
-
+* **GM-ATCI Rear-view Pedestrian Dataset**:  In total, the dataset contains 250 clips with a total duration of 76 minutes and over 200K annotated pedestrian bounding boxes. The original dataset contains 15 filming sessions, each taken in a different day with different scenarios, with each session having multiple clips ranging from seconds to several minutes. Only the test set is available from this dataset which corresponds to 6 sets of clips. The data contains both "staged" and "in-the-wild" pedestrians in different urban locations.  Annotations include bounding boxes. [[Link]](https://sites.google.com/site/rearviewpeds1/)   
+[Person detection, Object detection]
  
-
 
 
 ### Images of people/vehicles
