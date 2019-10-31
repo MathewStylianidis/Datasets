@@ -48,13 +48,17 @@ The datasets are going to also be assigned tags related to their content on top 
   
 ## Computer Vision
 
-### Person Detection
+### Still images of people performing actions
 
+#### Person detection
 * **Stanford 40 Action Dataset**: The dataset contains images of humans performing 40 actions. Labels include bounding boxing for each image for 9532 images with 180-300 images per action class.   [[Link]](http://vision.stanford.edu/Datasets/40actions.html)
 
-* **Stanford 40 Action Dataset**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. However segmentation masks for people, bicycles and cars can also be found  [[here]](https://lear.inrialpes.fr/people/marszalek/data/ig02/).  [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)  
+### Images of people/vehicles
 
+* **GRAZ 01**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. (https://lear.inrialpes.fr/people/marszalek/data/ig02/).  [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)  
 
+* **GRAZ 02**: The dataset contains 365 images with bikes, 311 images with persons, 420 images with cars 
+and 380 images not containing one of these objects. For 300 images of each category pixel segmentation masks are provided. There is also an improved version of the database with improved pixel segmentation masks. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved dataset link]](http://lear.inrialpes.fr/people/marszalek/data/ig02/)
 
 
 
