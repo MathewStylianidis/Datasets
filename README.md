@@ -67,7 +67,11 @@ Tags: Activity recognition, Object detection, Person detection, Posture recognit
 http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 [Person detection, Object detection]
 
+* **Daimler Pedestrian Detection Dataset**: The training set contains 15.560 pedestrian samples and 6744 additional full images not containing pedestrians for extracting negative samples. The test set contains an independent sequence with more than 21.790 images with 56.492 pedestrian labels, captured from a vehicle during a 27 min drive through urban traffic, at VGA resolution (640x480, uncompressed). Bounding boxes are provided. [[Link]](http://www.gavrila.net/Research/Pedestrian_Detection/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html)
+[Person detection, Object detection]
 
+
+ 
 
 
 
