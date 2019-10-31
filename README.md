@@ -42,6 +42,10 @@ The datasets are going to also be assigned tags related to their content on top 
 * **IBM Debate Speech Analysis Corpus:** Dataset made up from 3 separate datasets with good quality sound debates. The dataset is originally purposed for Automatic Speech Recognition. [[Link]](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Project)  
 
   
+<br/><br/>  
+<br/><br/>
+  
+  
 ## Computer Vision
 
 ### Person Detection
@@ -49,6 +53,9 @@ The datasets are going to also be assigned tags related to their content on top 
 * **Stanford 40 Action Dataset**: The dataset contains images of humans performing 40 actions. Labels include bounding boxing for each image for 9532 images with 180-300 images per action class.   [[Link]](http://vision.stanford.edu/Datasets/40actions.html)
 
 * **Stanford 40 Action Dataset**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. However segmentation masks for people, bicycles and cars can also be found  [[here]](https://lear.inrialpes.fr/people/marszalek/data/ig02/).  [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)  
+
+
+
 
 
  
