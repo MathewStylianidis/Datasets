@@ -119,6 +119,13 @@ and 380 images not containing one of these objects. For 300 images of each categ
 * **20BN-something-something Dataset V2**:  The 20BN-SOMETHING-SOMETHING is a dataset collected with crowdsourcing including a large collection of densely-labeled video clips that show humans performing pre-defined basic actions with everyday objects. It contains about 220.000 videos with 174 labels of the following format: "Putting something on a surface", "Move something up", "Cover something with something", etc. where something is replaced with the object in the video [[Link]](https://20bn.com/datasets/something-something)  
 [Activity recognition]
 
+* **Human Action Clips and Segments Dataset for Recognition and Temporal Localization**:  The HACS dataset consists of two kinds of manual annotations. HACS Clips contains 1.55M 2-second clip annotations; HACS Segments has complete action segments (from action start to end) on 50K videos. [[Link]](http://hacs.csail.mit.edu/)  
+[Activity recognition, Action detection]
+
+* **ActivityNet**:  The ActivityNet dataset consists of about 648 video hours. It contains 200 activity classes, around 15000 training and validation videos and 5000 test videos. Every class has approximately 100 untrimmed videos. [[Link]](http://activity-net.org/index.html)  
+[Activity recognition, Action detection]
+
+
 ### General action videos
 
 * **Moments in Time dataset**: The dataset includes a collection of 1 million labeled 3 second videos, involving people, animals, objects or natural phenomena. [[Link]](http://moments.csail.mit.edu/)  
