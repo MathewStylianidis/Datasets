@@ -100,6 +100,10 @@ and 380 images not containing one of these objects. For 300 images of each categ
 * **Kinetics-700**: A dataset of URL links to approximately 650,000 video clips that covers 700 human action classes, including human-object interactions such as playing instruments, as well as human-human interactions such as shaking hands and hugging. Each action class has at least 600 video clips. Each clip is human annotated with a single action class and lasts around 10s. [[Link]](https://deepmind.com/research/open-source/kinetics)  
 [Activity recognition]
 
+* **UCF-101**: The dataset contains 13320 videos from 101 action categories. The videos in 101 action categories are grouped into 25 groups, where each group can consist of 4-7 videos of an action. The action categories can be further divided into five types: 1)Human-Object Interaction 2) Body-Motion Only 3) Human-Human Interaction 4) Playing Musical Instruments 5) Sports. [[Link]](https://www.crcv.ucf.edu/data/UCF101.php)  
+[Activity recognition]
+ 
+
 * **HMDB51**: The dataset contains 6849 clips divided into 51 action categories, each containing a minimum of 101 clips. The actions categories can be grouped in five types: general facial actions (e.g. smile, laugh), object manipulation facial actions (e.g. smoke, eat), general body movements (e.g. cartwheel, clap hands), body movements with object interaction (e.g. brush hair, draw sword), body movements with human interaction (e.g. shake hands, fencing, hug). In addition to these labels, each clip has meta-labels related to the lighting conditions, camera or no camera motion, video quality, etc. [[Link]](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)  
 [Activity recognition]
 
@@ -111,6 +115,9 @@ and 380 images not containing one of these objects. For 300 images of each categ
 
 * **Charades-Ego**: A dataset composed of 7860 videos of daily indoors activities collected through Amazon Mechanical Turk recorded from both third and first person. The dataset contains 68,536 temporal annotations for 157 action classes. [[Link]](https://allenai.org/plato/charades/)  
 [Activity recognition, Activity detection]
+
+* **20BN-something-something Dataset V2**:  The 20BN-SOMETHING-SOMETHING is a dataset collected with crowdsourcing including a large collection of densely-labeled video clips that show humans performing pre-defined basic actions with everyday objects. It contains about 220.000 videos with 174 labels of the following format: "Putting something on a surface", "Move something up", "Cover something with something", etc. where something is replaced with the object in the video [[Link]](https://20bn.com/datasets/something-something)  
+[Activity recognition]
 
 ### General action videos
 
