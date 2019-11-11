@@ -95,7 +95,9 @@ and 380 images not containing one of these objects. For 300 images of each categ
 
 * **Japanese Female Facial Expression (JAFFE)**: The database contains 213 images of 7 facial expressions (6 basic facial expressions + 1 neutral) posed by 10 Japanese female models. Each image has been rated on 6 emotion adjectives by 60 Japanese subjects. [[Link]](https://zenodo.org/record/3451524#.Xcl3T-hKiUk)  
 
+### Human action videos
 
+* **Kinetics-700**: A dataset of URL links to approximately 650,000 video clips that covers 700 human action classes, including human-object interactions such as playing instruments, as well as human-human interactions such as shaking hands and hugging. Each action class has at least 600 video clips. Each clip is human annotated with a single action class and lasts around 10s. [[Link]](https://deepmind.com/research/open-source/kinetics)  
 
 <br/><br/>
 <br/><br/>
