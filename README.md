@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Object detection, Person detection, Posture recognition, Segmentation, Face recognition
+Tags: Activity recognition, Activity detectiton, Object detection, Person detection, Posture recognition, Segmentation, Face recognition
 
 ## Speech
 
@@ -98,12 +98,24 @@ and 380 images not containing one of these objects. For 300 images of each categ
 ### Human action videos
 
 * **Kinetics-700**: A dataset of URL links to approximately 650,000 video clips that covers 700 human action classes, including human-object interactions such as playing instruments, as well as human-human interactions such as shaking hands and hugging. Each action class has at least 600 video clips. Each clip is human annotated with a single action class and lasts around 10s. [[Link]](https://deepmind.com/research/open-source/kinetics)  
+[Activity recognition]
 
-* **HMDB51**: The dataset contains 6849 clips divided into 51 action categories, each containing a minimum of 101 clips. The actions categories can be grouped in five types: general facial actions (e.g. smile, laugh), object manipulation facial actions (e.g. smoke, eat), general body movements (e.g. cartwheel, clap hands), body movements with object interaction (e.g. brush hair, draw sword), body movements with human interaction (e.g. shake hands, fencing, hug). In addition to these labels, each clip has meta-labels related to the lighting conditions, camera or no camera motion, video quality, etc. 
+* **HMDB51**: The dataset contains 6849 clips divided into 51 action categories, each containing a minimum of 101 clips. The actions categories can be grouped in five types: general facial actions (e.g. smile, laugh), object manipulation facial actions (e.g. smoke, eat), general body movements (e.g. cartwheel, clap hands), body movements with object interaction (e.g. brush hair, draw sword), body movements with human interaction (e.g. shake hands, fencing, hug). In addition to these labels, each clip has meta-labels related to the lighting conditions, camera or no camera motion, video quality, etc. [[Link]](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)  
+[Activity recognition]
+
+* **AVA**: The AVA dataset densely annotates 80 atomic visual actions in 430 15-minute movie clips, where actions are localized in space and time, resulting in 1.62M action labels with multiple labels per human occurring frequently. [[Link]](https://research.google.com/ava/)  
+[Activity recognition, Activity detection]
+
+* **Charades**: Charades is dataset composed of 9848 videos of daily indoors activities collected through Amazon Mechanical Turk. 267 different users were presented with a sentence, that includes objects and actions from a fixed vocabulary, and they recorded a video acting out the sentence (like in a game of Charades). The dataset contains 66,500 temporal annotations for 157 action classes, 41,104 labels for 46 object classes, and 27,847 textual descriptions of the videos. [[Link]](https://allenai.org/plato/charades/)  
+[Activity recognition, Activity detection]
+
+* **Charades-Ego**: A dataset composed of 7860 videos of daily indoors activities collected through Amazon Mechanical Turk recorded from both third and first person. The dataset contains 68,536 temporal annotations for 157 action classes. [[Link]](https://allenai.org/plato/charades/)  
+[Activity recognition, Activity detection]
 
 ### General action videos
 
 * **Moments in Time dataset**: The dataset includes a collection of 1 million labeled 3 second videos, involving people, animals, objects or natural phenomena. [[Link]](http://moments.csail.mit.edu/)  
+[Activity recognition]
 
 
 
