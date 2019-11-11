@@ -99,6 +99,15 @@ and 380 images not containing one of these objects. For 300 images of each categ
 
 * **Kinetics-700**: A dataset of URL links to approximately 650,000 video clips that covers 700 human action classes, including human-object interactions such as playing instruments, as well as human-human interactions such as shaking hands and hugging. Each action class has at least 600 video clips. Each clip is human annotated with a single action class and lasts around 10s. [[Link]](https://deepmind.com/research/open-source/kinetics)  
 
+* **HMDB51**: The dataset contains 6849 clips divided into 51 action categories, each containing a minimum of 101 clips. The actions categories can be grouped in five types: general facial actions (e.g. smile, laugh), object manipulation facial actions (e.g. smoke, eat), general body movements (e.g. cartwheel, clap hands), body movements with object interaction (e.g. brush hair, draw sword), body movements with human interaction (e.g. shake hands, fencing, hug). In addition to these labels, each clip has meta-labels related to the lighting conditions, camera or no camera motion, video quality, etc. 
+
+### General action videos
+
+* **Moments in Time dataset**: The dataset includes a collection of 1 million labeled 3 second videos, involving people, animals, objects or natural phenomena. [[Link]](http://moments.csail.mit.edu/)  
+
+
+
+
 <br/><br/>
 <br/><br/>
   
