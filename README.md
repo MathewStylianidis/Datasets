@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Activity detectiton, Object detection, Person detection, Posture recognition, Segmentation, Face recognition
+Tags: Activity recognition, Activity detectiton, Object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation
 
 ## Speech
 
@@ -77,6 +77,7 @@ http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 
 ### Images of people/vehicles
 
+
 * **GRAZ 01**: The dataset contains images with people and/or bikes as well as images with neither people or bikes. The dataset is originally annotated for image classification (detecting whether there is a person, bike or nothing in the picture) but also comes with pixel egmentation masks for 150 bike images. (https://lear.inrialpes.fr/people/marszalek/data/ig02/).[[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_01/)  
 [Person detection, Object detection]
 
@@ -84,6 +85,10 @@ http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 and 380 images not containing one of these objects. For 300 images of each category pixel segmentation masks are provided. There is also an improved version of the database with improved pixel segmentation masks. [[Link]](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/) [[Improved Dataset Link]](http://lear.inrialpes.fr/people/marszalek/data/ig02/)  
 [Person detection, Segmentation]
 
+#### Images extracted from movies
+
+* **Frames Labeled In Cinema (FLIC)**: The dataset includes 5003 images extracted from Holywood movies with pose estimation labels. The images were obtained by running an object detector on every tenth frame of 30 movies. People detected with high confidence (roughly 20K candidates) were then sent to the crowdsourcing marketplace Amazon Mechanical Turk to obtain groundtruthlabeling. Each image was annotated by five Turkers for each to label 10 upperbody joints. The median-of-five labeling was taken in each image to be robust to outlier annotation. Finally, images were rejected manually by us if the person was occluded or severely non-frontal. [[Link]](https://bensapp.github.io/flic-dataset.html)  
+[Person detection, Pose estimation]
 
 ### Face images
 
@@ -130,8 +135,6 @@ and 380 images not containing one of these objects. For 300 images of each categ
 
 * **Moments in Time dataset**: The dataset includes a collection of 1 million labeled 3 second videos, involving people, animals, objects or natural phenomena. [[Link]](http://moments.csail.mit.edu/)  
 [Activity recognition]
-
-
 
 
 <br/><br/>
