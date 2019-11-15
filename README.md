@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Activity detectiton, Object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting,
+Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting,
 
 ## Speech
 
@@ -105,6 +105,12 @@ and 380 images not containing one of these objects. For 300 images of each categ
 * **Indian Movie Face (IMFDB)**: A dataset of 34512 images of 100 Indian actors collected from more than 100 videos. All the images are manually selected and cropped from the video frames resulting in a high degree of variability interms of scale, pose, expression, illumination, age, resolution, occlusion, and makeup. IMFDB contains annotations for emotions (e.g. anger, happiness, sadness), pose (e.g. frontal, left), illumination (bad, medium, high), occlusion (e.g. glasses, beard), age (e.g. Child, Old), make-up level and gender. [[Link]](http://cvit.iiit.ac.in/projects/IMFDB/)  
 
 * **Japanese Female Facial Expression (JAFFE)**: The database contains 213 images of 7 facial expressions (6 basic facial expressions + 1 neutral) posed by 10 Japanese female models. Each image has been rated on 6 emotion adjectives by 60 Japanese subjects. [[Link]](https://zenodo.org/record/3451524#.Xcl3T-hKiUk)  
+
+### Videos with objects 
+
+* **ImageNet VID**: A dataset composed of clips annotated with object bounding boxes for 30 classes, mostly retrieved from YouTube. It includes 3862 video snippets for training, 555 for validation and 937 for the test set. The classes are composed of animal and vehicle objects, no person class included.  [[Link]](http://bvisionweb1.cs.unc.edu/ilsvrc2015/download-videos-3j16.php)  
+[Object detection, Video object detection]
+
 
 ### Human action videos
 
