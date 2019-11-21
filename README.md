@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting,
+Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting, Emotion Recognition, Non-English
 
 ## Speech
 
@@ -38,7 +38,12 @@ Tags: Activity recognition, Activity detectiton, Object detection, Video object 
 
 #### Scripted
 * **Interface ("Multimodal Analysis/Synthesis System for Human Interaction to Virtual and Augmented environments"):** Acted speech in Slovenian, English, Spanish and French. One male and one female actors per language except for two males and one female in English. About 4 hours per speaker. Currently (10/10/2019) only the Spanish recordings are available but the rest are to be published too.  [[Link]](http://universal.elra.info/product_info.php?cPath=37_39&products_id=62) 
+
 * **The Sincere Apology Corpus (SinA-C):** English speech recorded from 15 male and 17 female, 20 to 60 year old people, 27 of them being native American and 5 from other nationalities but fluent in English. 24 of the people were actors while 12 were artists. The speakers were instructed to speak in four prosodic styles: i)monotonic, ii) pitch prominence, iii) fast speaking rate, iv) slow speaking rate.The dataset is annotated in terms of the sincerity perceived by listeners. [[Link]](https://zenodo.org/record/3241253#.XaA6CEYzZPY)
+
+* **Berlin dataset**: Speech recorded from 10 German actors (5 male and 5 female) producing 10 different utterances (5 short and 5 long ones) that are used in everyday communication. The dataset comprises of 800 sentences in total and the utterances were recorded in 7 different emotional styles. [[Link]](http://emodb.bilderbar.info/download/)  
+[Emotion Recognition, Non-English]
+
 
 ### Medical
 * **VanDam Validation HomeBank Corpus:** About 7.5 hours of data selected from single-day recordings from the home-environment of 15 families with children that either develop or already have hearing problems. The children were 7-33 months old and the data was recording through a LENA system worn by the child. [[Link]](https://homebank.talkbank.org/access/Public/VanDam-Validation.html)
