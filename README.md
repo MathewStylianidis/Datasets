@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting, Emotion Recognition, Non-English
+Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting, Emotion Recognition, Affective Computing, Non-English
 
 ## Speech
 
@@ -159,14 +159,22 @@ and 380 images not containing one of these objects. For 300 images of each categ
   
 ## Multimodal
 
+
+
 ### Interviews
 * **VoxCeleb**: Large scale dataset consisting of 2000 hours of audiovisual data from interviews uploaded to YouTube with 7000+ speakers of which 1251 are celebrities. [[Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 ### Emotional speech
 #### Scripted
 * **Multimodal EmotionLines Dataset (MELD):** Dialogue data from the Friends TV series labelled with emotions such as Anger, Disgust, Sadness, etc. or a sentiment label (positive, negative or neutral).[[Link]](https://github.com/SenticNet/MELD)
+
 #### Mixed scripted and non scripted
+
 * **IEMOCAP**: Data from 10 actors, male and female having affective dyadic interactions in both improvised and scripted sessions. Comprises of 12 hours of audiovisual data with text along with the scripted data.  [[Link]](https://sail.usc.edu/iemocap/iemocap_release.htm)
+
+* **RECOLA**: A dataset of recorded dyadic interactions trying to complete a task requiring collaboration over a video conference in French. In total, 46 participants (27 females and 19 males) were recorded and the 5 first minutes from each interaction was removed from the data. Emotion was measured according to two metrics: i) Arousal and ii) Valence. The mean age of the participants was 22 years old with 3 years of standard deviation. In total, 33 participants spoke French natively, 8 spoke Italian, 4 German, and 1 Portuguese. According to self-reports only 20% of the participants knew their team-mate well. [[Link]](https://diuf.unifr.ch/main/diva/recola/download.html)  
+[Affective Computing, Emotion recognition, Non-English]
+
 
 ### Medical
 * **Dem@Care**: Audio-visual and physiological sensor data collected from lab and home experiments from Greek dementia patients. The dataset includes samples recorded during sleep and motion.  [[Link]](http://www.demcare.eu/results/datasets)
