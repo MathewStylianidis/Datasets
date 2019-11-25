@@ -3,7 +3,7 @@ A list of publicly available datasets (or available upon request) grouped not ju
 
 The datasets are going to also be assigned tags related to their content on top of their current listing to facilitate searching. The list of tags is going to be available so that one can choose from the available tags and search.
 
-Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting, Emotion Recognition, Affective Computing, Non-English
+Tags: Activity recognition, Activity detectiton, Object detection, Video object detection, Person detection, Posture recognition, Segmentation, Face recognition, Pose estimation, Keyword spotting, Emotion Recognition, Affective Computing, Non-English, Sound event detection
 
 ## Speech
 
@@ -159,7 +159,9 @@ and 380 images not containing one of these objects. For 300 images of each categ
   
 ## Multimodal
 
-
+### Sound focused videos from YouTube
+* **AudioSet**: A dataset of 1,789,621 10 second speech segments (4,971 hours) from YouTube videos. Labelled with 632 audio classes. Segments are proposed for labeling using searches based on metadata, context and content analysis. [[Link]](https://research.google.com/audioset/dataset/index.html)
+[Sound event detection]
 
 ### Interviews
 * **VoxCeleb**: Large scale dataset consisting of 2000 hours of audiovisual data from interviews uploaded to YouTube with 7000+ speakers of which 1251 are celebrities. [[Link]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
