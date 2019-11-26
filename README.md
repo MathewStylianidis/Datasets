@@ -30,6 +30,8 @@ Tags: Activity recognition, Activity detectiton, Object detection, Video object 
 [Keyword spotting]
 
 
+
+
 ### Emotional Speech
 
 #### Non-scripted
@@ -42,6 +44,9 @@ Tags: Activity recognition, Activity detectiton, Object detection, Video object 
 * **The Sincere Apology Corpus (SinA-C):** English speech recorded from 15 male and 17 female, 20 to 60 year old people, 27 of them being native American and 5 from other nationalities but fluent in English. 24 of the people were actors while 12 were artists. The speakers were instructed to speak in four prosodic styles: i)monotonic, ii) pitch prominence, iii) fast speaking rate, iv) slow speaking rate.The dataset is annotated in terms of the sincerity perceived by listeners. [[Link]](https://zenodo.org/record/3241253#.XaA6CEYzZPY)
 
 * **Berlin dataset**: Speech recorded from 10 German actors (5 male and 5 female) producing 10 different utterances (5 short and 5 long ones) that are used in everyday communication. The dataset comprises of 800 sentences in total and the utterances were recorded in 7 different emotional styles. [[Link]](http://emodb.bilderbar.info/download/)  
+[Emotion Recognition, Non-English]
+
+* **EmoV-DB**: A dataset with scripted utterances spoken from 4 North American (2 male and 2 female) as well as one Belgian male person. The recordings were done in anechoic rooms. The emotion labels contained are neutral, amused, angry, sleepy and disgust. [[Link]](https://github.com/numediart/EmoV-DB)  
 [Emotion Recognition, Non-English]
 
 
