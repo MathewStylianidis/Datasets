@@ -9,9 +9,15 @@ Tags: Activity recognition, Activity detectiton, Object detection, Video object 
 
 ### Reading:
 * **Common Voice:** A huge dataset crowdsourced by Mozilla with 1361 hours of audio, of which 1091 are validated and belonging to 18 different languages. Dataset was collected by volunteers speaking according to a script online and others validating the speech of others. The dataset also contains information about the gender or the accent in a language (e.g American English, England English, etc.) [[Link]](https://voice.mozilla.org/en/datasets)
+
 * **LibriSpeech**: 1000 hours of read books (audiobooks) in English. [[Link]](http://www.openslr.org/12)
+
+* **LibriVox**: Audiobooks in many different languages. [[Link]](https://librivox.org/search?primary_key=0&search_category=language&search_page=1&search_form=get_results)
+
 * **VCC Challenge 2016 dataset**: A cleaner version of the DAPS dataset. The data contains 20 speakers (10 male and 10 female), reading five excerpts each, about 13 minutes per speaker. The excerpts are read in 4 different recording settings (Raw, Clean Raw, Produced and Device). [[Link]](https://datashare.is.ed.ac.uk/handle/10283/2211)
+
 * **ZeroSpeech2019**: The training data was recorded from 1 male and 1 female for 2 hours per talker and read text from 100 speakers with 10 minutes per speaker. There is also data contains also parallel utterances from a target voice and other voices. Lastly, the test set contains 15 speakers with about 2 minutes of speech per speaker. [[Link]](https://zerospeech.com/2019/index.html)
+
 * **The Helsinki Prosody Corpus:** Basically LIbriTTS (cleaned part of LibriSpeech) annotated with high quality automatically generated annotations indicating the prominensce of prosody in speech. [[Link]](https://github.com/Helsinki-NLP/prosody)
 
 ### Pre-recorded speech replayed
