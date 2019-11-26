@@ -37,7 +37,6 @@ Tags: Activity recognition, Activity detectiton, Object detection, Video object 
 
 
 
-
 ### Emotional Speech
 
 #### Non-scripted
@@ -198,6 +197,12 @@ http://dcapswoz.ict.usc.edu/)
 
 #### Non-scripted
 * **CHiME-5**: Audio data along with the transcriptions from 20 dinner parties (minimum 2 hours each) with two hosts and two guests each. The party members were all close friends and were instructed to act naturally. The transcriptions include annotations such as noise (when non-language noise is made), inaudible, laughter or reducted (removed for privacy reasons). [[Link]](http://spandh.dcs.shef.ac.uk/chime_challenge/CHiME5/data.html)
+
+
+### Politics
+
+* **Plenary Sessions of the Parliament of Finland**: Transcribed speech from the plenary sessions of the Parliament of Finland from the year 2008 onwards. [[Link]](https://korp.csc.fi/download/eduskunta/v1/)
+
 
 
 
