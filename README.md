@@ -201,7 +201,7 @@ http://dcapswoz.ict.usc.edu/)
 
 ### Politics
 
-* **Plenary Sessions of the Parliament of Finland**: Transcribed speech from the plenary sessions of the Parliament of Finland from the year 2008 onwards. [[Link]](https://korp.csc.fi/download/eduskunta/v1/)
+* **Plenary Sessions of the Parliament of Finland**: Transcribed speech from the plenary sessions of the Parliament of Finland from the year 2008 to 2016. [[Link]](http://metashare.csc.fi/repository/browse/plenary-sessions-of-the-parliament-of-finland-downloadable-version-1/3cba05b204a011e78838005056be118e270756983fed4160b5098415a633f48c/)
 
 
 
