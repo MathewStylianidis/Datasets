@@ -205,4 +205,6 @@ http://dcapswoz.ict.usc.edu/)
 
 
 
+## Other useful dataset lists
+Computer vision: http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
 
