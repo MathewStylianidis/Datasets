@@ -180,6 +180,10 @@ and 380 images not containing one of these objects. For 300 images of each categ
 #### Scripted
 * **Multimodal EmotionLines Dataset (MELD):** Dialogue data from the Friends TV series labelled with emotions such as Anger, Disgust, Sadness, etc. or a sentiment label (positive, negative or neutral).[[Link]](https://github.com/SenticNet/MELD)
 
+* **CREMA-D:** CREMA-D is a data set of 7,442 original clips from 48 male and 43 female actors between the ages of 20 and 74 coming from a variety of races and ethnicities (African America, Asian, Caucasian, Hispanic, and Unspecified). The actors spoke from a selection of 12 sentences whose semantic content has been judges as emotionally neutral. The dataset contains 6 emotion classes (anger, disgust, fear, happy, sad and neutral) and four emotion levels (low, medium, high and unspecified). The annotation of the emotions was done through crowd-sourcing.
+
+
+
 #### Mixed scripted and non scripted
 
 * **IEMOCAP**: Data from 10 actors, male and female having affective dyadic interactions in both improvised and scripted sessions. Comprises of 12 hours of audiovisual data with text along with the scripted data.  [[Link]](https://sail.usc.edu/iemocap/iemocap_release.htm)
